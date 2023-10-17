@@ -12,3 +12,5 @@ let add =93000
 console.log(add.toFixed(2))
 console.log(add.toPrecision(4))
 console.log(add.toLocaleString())
+
+
