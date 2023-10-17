@@ -76,3 +76,8 @@ for(j in num){
 for(f of num){
     console.log(f)
 }
+
+
+
+
+//information to github
