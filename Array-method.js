@@ -1,8 +1,9 @@
-let one=[211,22,323,44,155,66,717,88,199]
+// let one=[211,22,323,44,155,66,717,88,199]
 let two=["maruti", "krishna" ,"mhatru"]
+two[0]="ram"
+console.log(two)
 
-
-console.log(one.join("-"))
+// console.log(one.join("-"))
 
 //  let three =new Array("jagdish","shri","sham")
  
@@ -30,5 +31,9 @@ console.log(one.join("-"))
 //     return x-z
 // }
 // console.log(one.sort(compare))
-three=one.splice(1,3,111,222,444)
-console.log(three)
+// three=one.splice(1,3,111,222,444)
+// console.log(three)
+
+
+
+     

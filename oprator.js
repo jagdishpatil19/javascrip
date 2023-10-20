@@ -51,3 +51,9 @@ let userOne={
    console.log(jag);
    console.log(patil);
    console.um
+
+
+
+   let y=20
+   let v=10
+   console.log(y!==v)
