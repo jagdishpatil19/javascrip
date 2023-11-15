@@ -17,3 +17,23 @@ let fName="namman"
 let sName="herry"
  console.log(`${fName} is friend of ${sName}`)
 console.log( fName,"is friend of", sName)
+
+
+let text = " live in Mumbai , i like Mumbai ,i like Mumbai, i love Mumbai "
+   let text2=text.replace("Mumbai","kolhapur")
+   let text3=text2.replace("Mumbai","kolhapur")
+   let text4=text3.replace("Mumbai","pune")
+   let text5=text4.replaceAll("kolhapur","Mumabi")
+ console.log(text5)
+
+
+// var originalString = "This is a test. This is a test. This is a test."; 
+//  var searchString = "This is a test.";
+//   var replacementString = "That was a test."; 
+//   var resultString = replaceFirstOccurrence(originalString, searchString, replacementString); 
+// console.log(resultString);
+
+
+let space ="my         name      is       jagdish      "
+
+console.log(space)

@@ -69,7 +69,7 @@ for (let i=1;i<10; i++) {
 // for(let b of num){
 //     console.log(b)
 // }
-for(j in num){
+for( let j in num){
     console.log(num[j])
 }
 
@@ -78,6 +78,9 @@ for(f of num){
 }
 
 
+let space ="    my         name      is       jagdish      "
 
+let newSpace=space.replace(/\s+/g," ")
+console.log(newSpace)
 
   

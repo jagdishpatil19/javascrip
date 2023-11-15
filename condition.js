@@ -5,7 +5,7 @@
 // alert("chal be")
 //  }
 
-a = prompt("inform to products")
+a = prompt()
 a=Number.parseInt(a)
 if(a>20){
     alert("unlimited")
